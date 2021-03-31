@@ -38,7 +38,7 @@
 Project Object Detection is part of a collaborative project between SIT and an industry partner with the main objective of creating a simple Single Page Application (SPA) with the corresponding backend services to detect and identify objects in the selected image.
 <br>
 <br>
-There are two versions of the project with this being the basic project with extremely simplistic set up procedures and the other intermediate project that requires a little more advanced set up explained at [ICT3102_PRT_Object Detection Advanced](https://github.com/sithongfatt/ICT3102_PRT/tree/masterlb)
+There are two versions of the project with this being the basic project with extremely simplistic set up procedures and the other intermediate project that requires a little more advanced set up explained at [ICT3102_PRT_Object Detection Advanced](https://github.com/DarrenLimChuanS/yolo-object-detection/tree/masterlb)
 
 
 ## System Architecture
